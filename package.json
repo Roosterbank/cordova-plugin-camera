@@ -18,7 +18,7 @@
     "url": "https://github.com/apache/cordova-plugin-camera"
   },
   "bugs": {
-    "url": "https://issues.apache.org/jira/browse/CB"
+    "url": "https://github.com/apache/cordova-plugin-camera/issues"
   },
   "keywords": [
     "cordova",
@@ -36,20 +36,6 @@
   },
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",
-  "engines": {
-    "cordovaDependencies": {
-      "3.0.0": {
-        "cordova-android": ">=6.3.0"
-      },
-      "4.1.0": {
-        "cordova-android": ">=6.3.0",
-        "cordova": ">=7.1.0"
-      },
-      "5.0.0": {
-        "cordova": ">100"
-      }
-    }
-  },
   "devDependencies": {
     "eslint": "^4.3.0",
     "eslint-config-semistandard": "^11.0.0",
